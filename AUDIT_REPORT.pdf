@@ -1,0 +1,5785 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 6
+/Kids [ 3 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Length 490
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 57.02362 705.4961 cm
+Q
+q
+1 0 0 1 57.02362 679.4961 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 5 Tm
+/F2 21 Tf
+26 TL
+104.1037 0 Td
+(Resolv Project Audit Report) Tj
+T*
+-104.1037 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 641.4961 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 20 Tm
+/F2 12 Tf
+16 TL
+15.22417 0 Td
+(Compliance audit against the CS F213\057MAC F212 assignment\054 OOP and pattern) Tj
+T*
+96.672 0 Td
+(assessment\054 fixes made and final test results) Tj
+T*
+-111.8962 0 Td
+ET
+Q
+Q
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+/F3 8 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+10 0 obj
+<<
+/Length 16710
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 57.02362 768.5354 cm
+q
+0.117647 0.227451 0.541176 rg
+BT
+1 0 0 1 0 7.5 Tm
+/F2 14.5 Tf
+22 TL
+(0\056 How to read this report) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 700.0354 cm
+q
+BT
+1 0 0 1 0 53.2 Tm
+12.5 TL
+/F1 9.3 Tf
+0 0 0 rg
+(This audit inspected the existing code \050resolv\056py\054 server\056py\054 index\056html\054 tests\051 against the 17\055page assignment\056 Status) Tj
+T*
+(words\072 ) Tj
+/F2 9.3 Tf
+(Implemented) Tj
+/F1 9.3 Tf
+( \050works and is tested\051\054 ) Tj
+/F2 9.3 Tf
+(Partial) Tj
+/F1 9.3 Tf
+( \050works with a stated gap\051\054 ) Tj
+/F2 9.3 Tf
+(Simulated) Tj
+/F1 9.3 Tf
+( \050behaviour real\054 external) Tj
+T*
+(service stand\055in\051 and ) Tj
+/F2 9.3 Tf
+(Missing) Tj
+/F1 9.3 Tf
+(\056 \047Before\047 is the audit result on the code as first submitted to the audit\073 \047Now\047 is after the) Tj
+T*
+(fixes in section F\056 Language note\072 the prompt described a Java project\054 but this project is written in Python\073 the) Tj
+T*
+(assignment is technology\055independent\054 and all OOP concepts are demonstrated with Python abstract base classes\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 696.0354 cm
+Q
+q
+1 0 0 1 57.02362 664.0354 cm
+q
+0.117647 0.227451 0.541176 rg
+BT
+1 0 0 1 0 7.5 Tm
+/F2 14.5 Tf
+22 TL
+(A\056 Requirement compliance matrix) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.02362 58.03543 cm
+q
+0.858824 0.917647 0.996078 rg
+n
+0 600 493.2283 -15.6 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 587.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(\043) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 587.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Requirement) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 587.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Before) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 587.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Now) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 587.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implementation \050file \057 class\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 587.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Remaining gap) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 571.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(1) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 562.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Employee) Tj
+T*
+(management) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 571.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Partial) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 571.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 562.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Resolv\056register\050\051\054 create\137user\050\051\054 login\050\051\073 POST) Tj
+T*
+(\057api\057register\073 Register button on login screen) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 571.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(None) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 546.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(2) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 537 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Technician) Tj
+T*
+(management) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 537 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Partial \050no) Tj
+T*
+(API\057UI\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 546.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 537 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Users tab\073 Resolv\056update\137technician\050\051 \050skills\054) Tj
+T*
+(capacity\054 experience\054 availability\051\073 Technician) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 546.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(None) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 521.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(3) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 511.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Administrator) Tj
+T*
+(management) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 521.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Partial) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 521.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 511.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(create\137user\050role\075ADMIN\051 by admin\073 seed) Tj
+T*
+(admin A1) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 521.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(None) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 496.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(4) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 496.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Incident CRUD) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 496.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 496.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 477 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 21.2 Tm
+/F1 7.6 Tf
+9.6 TL
+(report\050\051\054 search\050\051\054 update\050\051 \050edit before) Tj
+T*
+(resolution\054 priority recomputed\051\054 assign\050\051\054) Tj
+T*
+(resolve\050\051\054 close\050\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 486.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(No delete\054 deliberately\072) Tj
+T*
+(audit trail integrity) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 461.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(5) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 451.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Incident) Tj
+T*
+(classification) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 461.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Partial) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 461.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 451.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(IncidentAnalyzer\056suggest\137category\050\051\073 admin) Tj
+T*
+(categories via UI\073 unknown text returns OTHER) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 461.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Keyword\055based) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 436.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(6) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 417 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 21.2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Priority \050impact\054) Tj
+T*
+(urgency\054) Tj
+T*
+(criticality\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 436.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 436.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 426.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(WeightedScore \050score \075 I x U x C\054 x1\05625 for) Tj
+T*
+(100\053 users\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 426.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(One strategy) Tj
+T*
+(implementation) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 401.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(7) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 382.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 21.2 Tm
+/F1 7.6 Tf
+9.6 TL
+(At least 2) Tj
+T*
+(assignment) Tj
+T*
+(strategies) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 401.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 401.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 391.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(SkillBased\054 LoadBased\054 RoundRobin\073 switch in) Tj
+T*
+(Admin tab) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 401.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(None) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 366.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(8) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 357 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(SLA calculation) Tj
+T*
+(and monitoring) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 366.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 366.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Partial\052) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 366.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(SLAEngine\073 \057api\057monitor\073 demo clock) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 337.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 30.8 Tm
+/F1 7.6 Tf
+9.6 TL
+(\052Monitoring runs on) Tj
+T*
+(demand\054 not as a) Tj
+T*
+(background thread) Tj
+T*
+(\050assignment\072 optional\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 322.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(9) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 303 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 21.2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Response and) Tj
+T*
+(resolution) Tj
+T*
+(deadlines) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 303 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 21.2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Partial \050late) Tj
+T*
+(response) Tj
+T*
+(ignored\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 322.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 322.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(SLAEngine\056deadlines\050\051\054 status\050\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 322.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Wall\055clock time only) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 287.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(10) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 277.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(SLA violation) Tj
+T*
+(detection) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 268.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 21.2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Partial) Tj
+T*
+(\050boundary) Tj
+T*
+(inconsistent\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 287.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 277.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(SLAEngine\056monitor\050\051\072 warning at 80\045\054 violation) Tj
+T*
+(strictly after deadline\054 once per incident) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 287.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(None) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 252.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(11) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 233.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 21.2 Tm
+/F1 7.6 Tf
+9.6 TL
+(At least 2) Tj
+T*
+(notification) Tj
+T*
+(mechanisms) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 252.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 243 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Simulated) Tj
+T*
+(\050email\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 243 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(InAppNotifier \050persistent\051\054 EmailAdapter over) Tj
+T*
+(ExternalMailGateway) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 252.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Email is a stand\055in) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 217.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(12) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 208.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Complete audit) Tj
+T*
+(history) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 217.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 217.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 208.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(AuditObserver\073 every transition\054 note\054 edit\054 SLA) Tj
+T*
+(event\054 user\057technician admin action) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 217.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(None) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 192.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(13) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 183 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(At least 5 search) Tj
+T*
+(criteria) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 183 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Partial in UI) Tj
+T*
+(\0504\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 192.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 183 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(8 criteria\072 id\054 date\054 status\054 priority\054 category\054) Tj
+T*
+(service\054 technician\054 SLA status \050API and UI\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 192.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(None) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 167.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(14) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 148.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 21.2 Tm
+/F1 7.6 Tf
+9.6 TL
+(At least 2) Tj
+T*
+(intelligent) Tj
+T*
+(features) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 167.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 167.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 167.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(6 rule\055based features \050section E of this report\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 167.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(No ML \050not claimed\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 132.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(15) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 123 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Lifecycle and) Tj
+T*
+(valid transitions) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 132.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 132.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 123 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(State pattern\073 Incident\056move\050\051\073 reopen allowed) Tj
+T*
+(RESOLVED to IN\137PROGRESS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 132.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(None) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 107.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(16) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 97.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Database) Tj
+T*
+(persistence) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 107.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 107.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 97.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(SQLite via Repository\073 now also notifications) Tj
+T*
+(and SLA policies) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 107.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(JSON document storage) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 82.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(17) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 72.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Authentication) Tj
+T*
+(and RBAC) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 82.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Partial) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 82.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 63 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 21.2 Tm
+/F1 7.6 Tf
+9.6 TL
+(PBKDF2 passwords\054 token sessions with 8 h) Tj
+T*
+(expiry and logout\054 role and ownership checks in) Tj
+T*
+(Resolv) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 82.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(No HTTPS\054 no lockout) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 47.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(18) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 37.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Exception) Tj
+T*
+(handling) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 47.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 47.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 37.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(9 custom exceptions mapped to HTTP) Tj
+T*
+(400\057401\057403\057404\057503) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 47.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(None) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 22.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(19) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 12.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Security) Tj
+T*
+(considerations) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 22.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Partial) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 22.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Partial) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 22.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Documented in report section 9) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 3 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 21.2 Tm
+/F1 7.6 Tf
+9.6 TL
+(HTTPS\054 CSRF\054 rate) Tj
+T*
+(limiting not implemented) Tj
+T*
+(\050documented\051) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.501961 0.501961 0.501961 RG
+0.4 w
+n
+0 600 m
+493.2283 600 l
+S
+n
+0 0 m
+0 600 l
+S
+n
+493.2283 0 m
+493.2283 600 l
+S
+n
+0 0 m
+493.2283 0 l
+S
+n
+0 584.4 m
+493.2283 584.4 l
+S
+n
+0 559.2 m
+493.2283 559.2 l
+S
+n
+0 534 m
+493.2283 534 l
+S
+n
+0 508.8 m
+493.2283 508.8 l
+S
+n
+0 474 m
+493.2283 474 l
+S
+n
+0 448.8 m
+493.2283 448.8 l
+S
+n
+0 414 m
+493.2283 414 l
+S
+n
+0 379.2 m
+493.2283 379.2 l
+S
+n
+0 334.8 m
+493.2283 334.8 l
+S
+n
+0 300 m
+493.2283 300 l
+S
+n
+0 265.2 m
+493.2283 265.2 l
+S
+n
+0 230.4 m
+493.2283 230.4 l
+S
+n
+0 205.2 m
+493.2283 205.2 l
+S
+n
+0 180 m
+493.2283 180 l
+S
+n
+0 145.2 m
+493.2283 145.2 l
+S
+n
+0 120 m
+493.2283 120 l
+S
+n
+0 94.8 m
+493.2283 94.8 l
+S
+n
+0 60 m
+493.2283 60 l
+S
+n
+0 34.8 m
+493.2283 34.8 l
+S
+n
+25.51181 0 m
+25.51181 600 l
+S
+n
+96.37795 0 m
+96.37795 600 l
+S
+n
+153.0709 0 m
+153.0709 600 l
+S
+n
+218.2677 0 m
+218.2677 600 l
+S
+n
+391.1811 0 m
+391.1811 600 l
+S
+Q
+Q
+Q
+
+endstream
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+12 0 obj
+<<
+/Length 12057
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 51.02362 598.5354 cm
+q
+0.858824 0.917647 0.996078 rg
+n
+0 192 493.2283 -15.6 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 179.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(\043) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 179.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Requirement) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 179.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Before) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 179.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Now) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 179.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implementation \050file \057 class\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 179.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Remaining gap) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 163.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(20) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 154.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(At least 2 design) Tj
+T*
+(patterns) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 163.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 163.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 154.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(State\054 Strategy\054 Observer\054 Repository\054 Adapter\054) Tj
+T*
+(simple Factory) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 163.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(See C) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 138.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(21) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 129 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Use case) Tj
+T*
+(diagram) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 138.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 138.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 138.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(docs\057usecase\056png\054 report 4\0561) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 138.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(None) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 113.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(22) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 113.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Class diagram) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 113.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+-0.071087 Tw
+(Partial \050stale\051) Tj
+T*
+0 Tw
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 113.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 113.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(docs\057class\137a\056png\054 class\137b\056png) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 113.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(None) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 97.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(23) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 97.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(ER diagram) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 97.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+-0.071087 Tw
+(Partial \050stale\051) Tj
+T*
+0 Tw
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 97.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 97.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(docs\057er\056png \050adds notifications\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 88.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Logical\073 physical storage) Tj
+T*
+(is JSON documents) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 72.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(24) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 63 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Architecture) Tj
+T*
+(diagram) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 72.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 72.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 72.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(docs\057arch\056png) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 72.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(None) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 47.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(25) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 37.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(At least 15 test) Tj
+T*
+(cases) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 47.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 47.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 37.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(38 documented \050T01\055T38\051 plus 76 API and 19) Tj
+T*
+(UI checks) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 47.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(None) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 22.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(26) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 31.51181 3 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 21.2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Three) Tj
+T*
+(demonstration) Tj
+T*
+(workflows) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 102.378 12.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented) Tj
+T*
+(in tests) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 159.0709 3 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 21.2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Implemented in) Tj
+T*
+(tests\073 video) Tj
+T*
+(pending) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 224.2677 12.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(e2e\137api\056py WORKFLOW 1\0572\0573\073 python3) Tj
+T*
+(resolv\056py\073 script in report section 11) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 397.1811 12.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Team must record the) Tj
+T*
+(video) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.501961 0.501961 0.501961 RG
+0.4 w
+n
+0 192 m
+493.2283 192 l
+S
+n
+0 176.4 m
+0 192 l
+S
+n
+0 0 m
+0 176.4 l
+S
+n
+493.2283 176.4 m
+493.2283 192 l
+S
+n
+493.2283 0 m
+493.2283 176.4 l
+S
+n
+0 0 m
+493.2283 0 l
+S
+n
+0 176.4 m
+493.2283 176.4 l
+S
+n
+25.51181 176.4 m
+25.51181 192 l
+S
+n
+96.37795 176.4 m
+96.37795 192 l
+S
+n
+153.0709 176.4 m
+153.0709 192 l
+S
+n
+218.2677 176.4 m
+218.2677 192 l
+S
+n
+391.1811 176.4 m
+391.1811 192 l
+S
+n
+0 151.2 m
+493.2283 151.2 l
+S
+n
+0 126 m
+493.2283 126 l
+S
+n
+0 110.4 m
+493.2283 110.4 l
+S
+n
+0 85.2 m
+493.2283 85.2 l
+S
+n
+0 60 m
+493.2283 60 l
+S
+n
+0 34.8 m
+493.2283 34.8 l
+S
+n
+25.51181 0 m
+25.51181 176.4 l
+S
+n
+96.37795 0 m
+96.37795 176.4 l
+S
+n
+153.0709 0 m
+153.0709 176.4 l
+S
+n
+218.2677 0 m
+218.2677 176.4 l
+S
+n
+391.1811 0 m
+391.1811 176.4 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 592.5354 cm
+Q
+q
+1 0 0 1 57.02362 560.5354 cm
+q
+0.117647 0.227451 0.541176 rg
+BT
+1 0 0 1 0 7.5 Tm
+/F2 14.5 Tf
+22 TL
+(B\056 OOP concept audit \050actual code\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 517.0354 cm
+q
+BT
+1 0 0 1 0 28.2 Tm
+12.5 TL
+/F2 9.3 Tf
+0 0 0 rg
+(Encapsulation\056) Tj
+/F1 9.3 Tf
+( Classes\072 Incident\054 Technician\054 User\056 All fields are private \050leading underscore\051\073 values are exposed) Tj
+T*
+(as read\055only properties\054 lists as copies\054 and every change goes through a method that validates first and changes) Tj
+T*
+(second\054 so a failed call leaves the object untouched \050tests T26\054 T39\054 T42\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 513.0354 cm
+Q
+q
+1 0 0 1 57.02362 402.0354 cm
+0 0 0 rg
+BT
+1 0 0 1 4 100.6 Tm
+/F3 7.4 Tf
+9 TL
+(class Incident\072                                    \043 resolv\056py) Tj
+T*
+(    state \075 property\050lambda s\072 s\056\137state\051         \043 no setter\072 s\056state \075 x raises AttributeError) Tj
+T*
+(    def move\050self\054 target\054 now\051\072) Tj
+T*
+(        if target not in self\056\137st\056allowed\072 raise InvalidTransition\050\056\056\056\051) Tj
+T*
+(        self\056\137state \075 target\073 STATES\133target\135\056on\137enter\050self\054 now\051) Tj
+T*
+(    def assign\137to\050self\054 tech\137id\054 now\051\072           \043 state rule checked before the change) Tj
+T*
+(        if not self\056\137st\056assignable\072 raise InvalidTransition\050\056\056\056\051) Tj
+T*
+(    def revise\050self\054 title\054 description\054 impact\054 urgency\054 users\054 priority\051\072) Tj
+T*
+(        Incident\056check\137content\050\056\056\056\051               \043 invariants live in the object) Tj
+T*
+(class Technician\050User\051\072) Tj
+T*
+(    def update\137profile\050self\054 skills\075None\054 capacity\075None\054 experience\075None\054 available\075None\051\072) Tj
+T*
+(        \043 validate everything first\054 then apply\072 all\055or\055nothing) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 371.0354 cm
+q
+BT
+1 0 0 1 0 15.7 Tm
+12.5 TL
+/F2 9.3 Tf
+0 0 0 rg
+(Remaining limitation\072) Tj
+/F1 9.3 Tf
+( Python has no access modifiers\054 so privacy is a convention backed by read\055only properties) Tj
+T*
+(and tests\056 User\056password\137hash is exposed read\055only so the repository can persist it\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 367.0354 cm
+Q
+q
+1 0 0 1 57.02362 323.5354 cm
+q
+BT
+1 0 0 1 0 28.2 Tm
+12.5 TL
+/F2 9.3 Tf
+0 0 0 rg
+(Abstraction\056) Tj
+/F1 9.3 Tf
+( UserService\054 ConfigService\054 IncidentService and ReportService each hide one area behind business) Tj
+T*
+(operations\073 SLAEngine and IncidentAnalyzer hide algorithms\073 Repository hides SQL and JSON\056 The web layer never) Tj
+T*
+(touches SQL or domain internals\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 319.5354 cm
+Q
+q
+1 0 0 1 57.02362 288.5354 cm
+q
+BT
+1 0 0 1 0 15.7 Tm
+12.5 TL
+/F2 9.3 Tf
+0 0 0 rg
+(Inheritance\056) Tj
+/F1 9.3 Tf
+( User to Employee\054 Administrator\054 Technician\073 State to eight states\073 ITSMError to nine exceptions\056 No) Tj
+T*
+(artificial inheritance was added\072 categories are data \050a dict\051\054 not subclasses\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 284.5354 cm
+Q
+q
+1 0 0 1 57.02362 253.5354 cm
+q
+BT
+1 0 0 1 0 15.7 Tm
+-0.127885 Tw
+12.5 TL
+/F2 9.3 Tf
+0 0 0 rg
+(Runtime polymorphism\056) Tj
+/F1 9.3 Tf
+( Five independent points\054 each exercised by tests\056 The role rules are the newest\072 each User) Tj
+T*
+0 Tw
+(subclass overrides its own ownership logic\054 so the services contain no role if\057else chains\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 249.5354 cm
+Q
+q
+1 0 0 1 57.02362 201.5354 cm
+0 0 0 rg
+BT
+1 0 0 1 4 37.6 Tm
+/F3 7.4 Tf
+9 TL
+(actor\056can\137work\137on\050inc\051            \043 Administrator\072 True \174 Technician\072 inc\056tech \075\075 id \174 Employee\072 False) Tj
+T*
+(actor\056acts\137as\137reporter\137for\050inc\051   \043 Administrator\072 True \174 Employee\072 inc\056reporter \075\075 id) Tj
+T*
+(actor\056comment\137kinds\050inc\051          \043 per\055role set of allowed comment types) Tj
+T*
+(STATES\133target\135\056on\137enter\050self\054 now\051                          \043 per\055state behaviour) Tj
+T*
+(t \075 self\056assignment\056pick\050self\056\137candidates\050\051\054 inc\054 self\056load\051 \043 Strategy) Tj
+T*
+ET
+Q
+q
+1 0 0 1 57.02362 158.0354 cm
+q
+BT
+1 0 0 1 0 28.2 Tm
+12.5 TL
+/F2 9.3 Tf
+0 0 0 rg
+(Interfaces\056) Tj
+/F1 9.3 Tf
+( Abstract base classes User\054 State\054 PriorityStrategy\054 AssignmentStrategy\054 Notifier\054 Observer\054 Repository) Tj
+T*
+(\050instantiation raises TypeError\054 tests T25 and T38\051\056 ) Tj
+/F2 9.3 Tf
+(Weakness\072) Tj
+/F1 9.3 Tf
+( Repository has 10 methods \050wide interface\051\073 it could) Tj
+T*
+(be split into reader and writer interfaces\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 154.0354 cm
+Q
+q
+1 0 0 1 57.02362 98.03543 cm
+q
+BT
+1 0 0 1 0 40.7 Tm
+12.5 TL
+/F2 9.3 Tf
+0 0 0 rg
+(Composition \057 aggregation \057 association\056) Tj
+/F1 9.3 Tf
+( Composition\072 the Resolv facade creates and owns its services\054 EventBus\054) Tj
+T*
+(IncidentAnalyzer\054 SLAEngine and Clock\056 Aggregation\072 EventBus and NotificationObserver hold externally created) Tj
+T*
+(observers and notifiers\056 Association\072 Incident links to users by id \050loose coupling and easy persistence\054 at the cost of) Tj
+T*
+(a lookup\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 94.03543 cm
+Q
+q
+1 0 0 1 57.02362 63.03543 cm
+q
+BT
+1 0 0 1 0 15.7 Tm
+12.5 TL
+/F2 9.3 Tf
+0 0 0 rg
+(Exception handling\056) Tj
+/F1 9.3 Tf
+( ITSMError hierarchy \050Auth\054 Unauthorized\054 NotFound\054 InvalidTransition\054 WorkloadExceeded\054) Tj
+T*
+(DuplicateIncident\054 MissingSLA\054 Validation\054 Persistence\051\073 a failed transition changes nothing because the transition is) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+14 0 obj
+<<
+/Length 12467
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 57.02362 778.0354 cm
+q
+BT
+1 0 0 1 0 3.2 Tm
+12.5 TL
+/F1 9.3 Tf
+0 0 0 rg
+(validated before any field is recorded \050T26\054 T42\051\073 a failing notifier is caught so other channels still run \050T34\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 774.0354 cm
+Q
+q
+1 0 0 1 57.02362 730.5354 cm
+q
+BT
+1 0 0 1 0 28.2 Tm
+12.5 TL
+/F2 9.3 Tf
+0 0 0 rg
+(Collections\056) Tj
+/F1 9.3 Tf
+( dict \050O\0501\051 lookups\051\054 set \050skills\054 SLA flags\051\054 list \050audit\054 comments\054 related ids\051\054 tuple \050allowed transitions\051\054) Tj
+T*
+(sorted\050key\075\056\056\056\051 for dispatch order\056 ) Tj
+/F2 9.3 Tf
+(Weakness\072) Tj
+/F1 9.3 Tf
+( technician load\050\051 and search\050\051 scan all incidents in O\050n\051\073 fine for a) Tj
+T*
+(prototype\054 would need an index at scale\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 726.5354 cm
+Q
+q
+1 0 0 1 57.02362 694.5354 cm
+q
+0.117647 0.227451 0.541176 rg
+BT
+1 0 0 1 0 7.5 Tm
+/F2 14.5 Tf
+22 TL
+(C\056 Design pattern audit) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 53.85827 512.1354 cm
+q
+0.858824 0.917647 0.996078 rg
+n
+0 176.4 487.5591 -15.6 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 163.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Pattern) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 163.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Where \057 participants) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 210.0945 163.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Genuine\077) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 266.7874 163.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Notes and recommendation) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 148.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(State) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 138.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(State\054 New\056\056Closed\054 STATES\054) Tj
+T*
+(Incident\056move) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 210.0945 148.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Yes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 266.7874 138.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(States own transitions\054 entry hooks and capability flags\073 no) Tj
+T*
+(state\055name checks remain in services\056 Keep\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 123 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Strategy) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 103.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 21.2 Tm
+/F1 7.6 Tf
+9.6 TL
+(PriorityStrategy\057WeightedScore\073) Tj
+T*
+(AssignmentStrategy\057SkillBased\054) Tj
+T*
+(LoadBased\054 RoundRobin\073 Notifier) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 210.0945 123 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Yes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 266.7874 103.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 21.2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Assignment strategy swapped at runtime\056 Priority has one) Tj
+T*
+(implementation\073 adding a second \050e\056g\056 rule\055based\051 would) Tj
+T*
+(strengthen it\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 88.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Observer) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 78.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Observer\054 EventBus\054 AuditObserver\054) Tj
+T*
+(NotificationObserver) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 210.0945 88.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Yes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 266.7874 78.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Now has a formal interface \050was duck\055typed\051\056 Synchronous\073 no) Tj
+T*
+(transactional guarantee\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Adapter) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 53.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(EmailAdapter wrapping) Tj
+T*
+(ExternalMailGateway) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 210.0945 53.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Yes) Tj
+T*
+(\050structure\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 266.7874 63 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Adaptee is a simulated gateway\056 State this explicitly\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 37.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Repository) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 37.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Repository\054 SQLiteRepository) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 210.0945 37.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Yes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 266.7874 28.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Returns and accepts domain objects\073 all mapping is inside) Tj
+T*
+-0.029043 Tw
+(SQLiteRepository\056 A second implementation is used in test T43\056) Tj
+T*
+0 Tw
+ET
+Q
+Q
+q
+1 0 0 1 6 12.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Factory) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 12.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(UserFactory\056create) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 210.0945 12.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Partial) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 266.7874 3 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Simple static factory only\073 not Factory Method\056 No) Tj
+T*
+(incident\057notification factories\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.501961 0.501961 0.501961 RG
+0.4 w
+n
+0 176.4 m
+487.5591 176.4 l
+S
+n
+0 0 m
+487.5591 0 l
+S
+n
+0 0 m
+0 176.4 l
+S
+n
+487.5591 0 m
+487.5591 176.4 l
+S
+n
+0 160.8 m
+487.5591 160.8 l
+S
+n
+0 135.6 m
+487.5591 135.6 l
+S
+n
+0 100.8 m
+487.5591 100.8 l
+S
+n
+0 75.6 m
+487.5591 75.6 l
+S
+n
+0 50.4 m
+487.5591 50.4 l
+S
+n
+0 25.2 m
+487.5591 25.2 l
+S
+n
+56.69291 0 m
+56.69291 176.4 l
+S
+n
+204.0945 0 m
+204.0945 176.4 l
+S
+n
+260.7874 0 m
+260.7874 176.4 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 506.1354 cm
+Q
+q
+1 0 0 1 57.02362 475.1354 cm
+q
+BT
+1 0 0 1 0 15.7 Tm
+12.5 TL
+/F2 9.3 Tf
+0 0 0 rg
+(Retain and defend\072) Tj
+/F1 9.3 Tf
+( State\054 Strategy\054 Observer\054 Repository \050strongest\051\073 Adapter as a demonstration\073 describe Factory) Tj
+T*
+(modestly\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 471.1354 cm
+Q
+q
+1 0 0 1 57.02362 439.1354 cm
+q
+0.117647 0.227451 0.541176 rg
+BT
+1 0 0 1 0 7.5 Tm
+/F2 14.5 Tf
+22 TL
+(D\056 Architecture and code quality) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 53.85827 231.5354 cm
+q
+0.858824 0.917647 0.996078 rg
+n
+0 201.6 487.5591 -15.6 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 189 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Principle) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 105.2126 189 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Assessment) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 173.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Separation of concerns) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 105.2126 163.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Good\072 UI\054 API\054 services\054 domain\054 repository\056 Domain classes contain no SQL\057JSON\073 services contain no) Tj
+T*
+(SQL\057JSON\073 server\056py contains no business rules and no access to Resolv internals \050checked by search\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 148.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Single Responsibility) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 105.2126 129 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 21.2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Improved\056 Resolv\047s logic \050209 lines\054 42 methods\051 was split into UserService\054 ConfigService\054 IncidentService\054) Tj
+T*
+(ReportService and Clock \050plus the earlier SLAEngine and IncidentAnalyzer\051\056 Resolv is now a 75\055line Facade) Tj
+T*
+(whose 35 of 38 methods are one\055line delegations\056 IncidentService is the largest service \05017 methods\054 86 lines\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 113.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Open\057Closed) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 105.2126 103.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Good\072 new category \050data\051\054 strategy\054 notifier\054 observer\054 repository need no edits to services\056 A new state is one) Tj
+T*
+(class plus a STATES entry and carries its own capability flags\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 78.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Liskov \057 Interface) Tj
+T*
+(segregation) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 105.2126 88.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Subtypes are substitutable \050tests\054 including a second Repository\051\056 Repository is a wide interface \05010 methods\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Dependency inversion) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 105.2126 53.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Services depend on Repository\054 Notifier\054 Observer and strategy abstractions\073 the repository is injected\056 The) Tj
+T*
+(Resolv facade is the composition root and builds the default implementations\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 37.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Coupling) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 105.2126 28.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+-0.086434 Tw
+(server\056py now uses only public facade methods \050get\137user\054 technician\137workload\054 audit\137log\054 clock\056offset\137minutes\054) Tj
+T*
+0 Tw
+(require\137role\051\056 Notification observer receives an admin lookup instead of the Resolv object\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 12.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Duplicated logic) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 105.2126 3 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(State rules were repeated as state\055name tuples in several methods\073 they now live once in the State classes\056 UI) Tj
+T*
+(button rules still mirror server rules \050acceptable\073 the server is authoritative\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.501961 0.501961 0.501961 RG
+0.4 w
+n
+0 201.6 m
+487.5591 201.6 l
+S
+n
+0 0 m
+487.5591 0 l
+S
+n
+0 0 m
+0 201.6 l
+S
+n
+487.5591 0 m
+487.5591 201.6 l
+S
+n
+0 186 m
+487.5591 186 l
+S
+n
+0 160.8 m
+487.5591 160.8 l
+S
+n
+0 126 m
+487.5591 126 l
+S
+n
+0 100.8 m
+487.5591 100.8 l
+S
+n
+0 75.6 m
+487.5591 75.6 l
+S
+n
+0 50.4 m
+487.5591 50.4 l
+S
+n
+0 25.2 m
+487.5591 25.2 l
+S
+n
+99.2126 0 m
+99.2126 201.6 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 225.5354 cm
+Q
+q
+1 0 0 1 57.02362 193.5354 cm
+q
+0.117647 0.227451 0.541176 rg
+BT
+1 0 0 1 0 7.5 Tm
+/F2 14.5 Tf
+22 TL
+(E\056 Intelligent features\072 algorithms\054 limits and measured behaviour) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 125.0354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 53.2 Tm
+/F1 9.3 Tf
+12.5 TL
+(All six features are rule\055based\073 none uses machine learning\056 Similarity example computed by the code\072 tokens of) Tj
+T*
+(\047Payment application unavailable users cannot complete transactions\047 \075 \133\047application\047\054 \047complete\047\054 \047failure\047\054 \047payment\047\135\073) Tj
+T*
+(of \047Payment transaction failing errors on checkout\047 \075 \133\047failure\047\054 \047payment\047\135\073 Jaccard \075 0\05650\073 third example \047Unable to) Tj
+T*
+(make payment payment page error\047 vs the first \075 0\05640 \050threshold 0\0562\051\056 Priority examples from WeightedScore\072) Tj
+T*
+(4x4x4\075P1\054 3x3x2\075P2\054 2x2x3\075P3\054 1x1x4\075P4\073 with 100 users 2x4x4 moves P2 to P1\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 121.0354 cm
+Q
+q
+1 0 0 1 53.85827 64.63543 cm
+q
+0.858824 0.917647 0.996078 rg
+n
+0 56.4 487.5591 -15.6 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 43.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Feature) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 91.03937 43.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Probe) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 232.7717 43.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Before audit) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 354.6614 43.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(After fixes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 28.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Duplicate detection) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 91.03937 18.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Assignment\047s own 3 payment) Tj
+T*
+(examples) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 232.7717 18.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Third \050\047Unable to make) Tj
+T*
+(payment\047\051 not linked) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 354.6614 28.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Linked to earlier incidents) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Duplicate detection) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Printer jam vs printer toner low) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 232.7717 3 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Not linked) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 354.6614 3 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Not linked \050kept\051) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.501961 0.501961 0.501961 RG
+0.4 w
+n
+0 56.4 m
+487.5591 56.4 l
+S
+n
+0 0 m
+0 56.4 l
+S
+n
+487.5591 0 m
+487.5591 56.4 l
+S
+n
+0 0 m
+487.5591 0 l
+S
+n
+0 40.8 m
+487.5591 40.8 l
+S
+n
+0 15.6 m
+487.5591 15.6 l
+S
+n
+85.03937 0 m
+85.03937 56.4 l
+S
+n
+226.7717 0 m
+226.7717 56.4 l
+S
+n
+348.6614 0 m
+348.6614 56.4 l
+S
+Q
+Q
+Q
+
+endstream
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+16 0 obj
+<<
+/Length 12234
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 53.85827 602.1354 cm
+q
+0.858824 0.917647 0.996078 rg
+n
+0 188.4 487.5591 -15.6 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 175.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Feature) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 91.03937 175.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Probe) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 232.7717 175.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Before audit) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 354.6614 175.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(After fixes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 160.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Categorisation) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 91.03937 160.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(\047Zoom audio broken\047) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 232.7717 160.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(APPLICATION \050wrong guess\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 354.6614 160.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(OTHER) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 144.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Categorisation) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 91.03937 135 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Admin keyword \047analytics\047\054 text) Tj
+T*
+(\047analytics dashboard empty\047) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 232.7717 144.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Never matched \050stemming bug\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 354.6614 144.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(ANALYTICS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 119.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(SLA risk) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 91.03937 119.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(P1 unacknowledged at 4 min \050limit 5\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 232.7717 119.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(OK) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 354.6614 119.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(AT\137RISK) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 103.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(SLA breach) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 91.03937 94.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Acknowledged at 20 min \050limit 5\051\054) Tj
+T*
+(resolved in 25) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 232.7717 103.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(MET \050wrong\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 354.6614 103.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(BREACHED) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 78.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(SLA boundary) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 91.03937 78.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Exactly at deadline) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 232.7717 78.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Monitor and status disagreed) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 354.6614 78.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Both\072 not breached until strictly after) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 53.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Technician) Tj
+T*
+(unavailable) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 91.03937 63 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(All technicians full or unavailable) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 232.7717 53.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Not modelled \057 incident silently) Tj
+T*
+(unassigned) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 354.6614 53.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Queued\054 UNASSIGNED audit and) Tj
+T*
+(admin alert\054 auto\055dispatched later) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 37.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Escalation) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 91.03937 37.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Unacknowledged P1 past deadline) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 232.7717 37.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Worked) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 354.6614 28.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Unchanged\073 notifies and audits\054 does) Tj
+T*
+(not reassign) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 12.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Suggested resolution) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Similar resolved incident\054 same) Tj
+T*
+(category) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 232.7717 12.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Worked) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 354.6614 3 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Unchanged\073 shown on technician) Tj
+T*
+(cards) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.501961 0.501961 0.501961 RG
+0.4 w
+n
+0 188.4 m
+487.5591 188.4 l
+S
+n
+0 172.8 m
+0 188.4 l
+S
+n
+0 0 m
+0 172.8 l
+S
+n
+487.5591 172.8 m
+487.5591 188.4 l
+S
+n
+487.5591 0 m
+487.5591 172.8 l
+S
+n
+0 0 m
+487.5591 0 l
+S
+n
+0 172.8 m
+487.5591 172.8 l
+S
+n
+85.03937 172.8 m
+85.03937 188.4 l
+S
+n
+226.7717 172.8 m
+226.7717 188.4 l
+S
+n
+348.6614 172.8 m
+348.6614 188.4 l
+S
+n
+0 157.2 m
+487.5591 157.2 l
+S
+n
+0 132 m
+487.5591 132 l
+S
+n
+0 116.4 m
+487.5591 116.4 l
+S
+n
+0 91.2 m
+487.5591 91.2 l
+S
+n
+0 75.6 m
+487.5591 75.6 l
+S
+n
+0 50.4 m
+487.5591 50.4 l
+S
+n
+0 25.2 m
+487.5591 25.2 l
+S
+n
+85.03937 0 m
+85.03937 172.8 l
+S
+n
+226.7717 0 m
+226.7717 172.8 l
+S
+n
+348.6614 0 m
+348.6614 172.8 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 596.1354 cm
+Q
+q
+1 0 0 1 57.02362 564.1354 cm
+q
+0.117647 0.227451 0.541176 rg
+BT
+1 0 0 1 0 7.5 Tm
+/F2 14.5 Tf
+22 TL
+(F\056 Modifications made during this audit) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 533.1354 cm
+q
+BT
+1 0 0 1 2 15.7 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+BT
+1 0 0 1 12 15.7 Tm
+12.5 TL
+/F2 9.3 Tf
+0 0 0 rg
+(Missing MVP features added\072) Tj
+/F1 9.3 Tf
+( employee registration\073 admin user and technician management\073 technician skills\054) Tj
+T*
+(capacity and availability\073 category management UI\073 extra search filters \050category\054 technician\054 id\054 date\051 in the UI\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 477.1354 cm
+q
+BT
+1 0 0 1 2 40.7 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+BT
+1 0 0 1 12 40.7 Tm
+12.5 TL
+/F2 9.3 Tf
+0 0 0 rg
+(Bugs fixed\072) Tj
+/F1 9.3 Tf
+( resolve\057verify mutated the incident before validating the transition\073 late acknowledgement ignored) Tj
+T*
+(after resolution\073 no AT\137RISK on the response window\073 SLA boundary inconsistency\073 plural admin keywords never) Tj
+T*
+(matched\073 wrong default category\073 assignment\047s third duplicate example missed\073 incident silently unassigned when) Tj
+T*
+(technicians full\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 433.6354 cm
+q
+BT
+1 0 0 1 2 28.2 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+BT
+1 0 0 1 12 28.2 Tm
+12.5 TL
+/F2 9.3 Tf
+0 0 0 rg
+(OOP and architecture\072) Tj
+/F1 9.3 Tf
+( User\054 Repository and Observer made real abstractions\073 SLAEngine and IncidentAnalyzer) Tj
+T*
+(extracted from Resolv\073 monkey\055patched method removed\073 Adapter pattern added for email\073 notification channel) Tj
+T*
+(failure isolated\073 PersistenceError mapped to HTTP 503\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 402.6354 cm
+q
+BT
+1 0 0 1 2 15.7 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+BT
+1 0 0 1 12 15.7 Tm
+-0.007532 Tw
+12.5 TL
+/F2 9.3 Tf
+0 0 0 rg
+(Security\057persistence\072) Tj
+/F1 9.3 Tf
+( session expiry \0508 h\051 and logout\073 input length limits\073 password and id validation\073 notifications) Tj
+T*
+0 Tw
+(and SLA policies persisted\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 359.1354 cm
+q
+BT
+1 0 0 1 2 28.2 Tm
+/F1 10 Tf
+12 TL
+0 0 0 rg
+<7f> Tj
+ET
+BT
+1 0 0 1 12 28.2 Tm
+12.5 TL
+/F2 9.3 Tf
+0 0 0 rg
+(Tests\072) Tj
+/F1 9.3 Tf
+( unit tests 24 to 44\073 API checks 44 to 76 \050adds registration\054 user admin\054 availability and dispatch\054 the three) Tj
+T*
+(workflows\054 restart persistence\051\073 UI checks 11 to 19\056 No existing test was weakened\073 one weak test \050T13\054) Tj
+T*
+(conditional assertion\051 was strengthened\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 355.1354 cm
+Q
+q
+1 0 0 1 57.02362 323.1354 cm
+q
+0.117647 0.227451 0.541176 rg
+BT
+1 0 0 1 0 7.5 Tm
+/F2 14.5 Tf
+22 TL
+(F2\056 Final OOP refactoring \050second pass\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 292.1354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 15.7 Tm
+/F1 9.3 Tf
+12.5 TL
+(Scope was limited to the weaknesses found in this audit\073 the HTTP API\054 JSON keys and all 38 earlier tests were left) Tj
+T*
+(unchanged\054 and databases written by the earlier code still load \050checked\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 288.1354 cm
+Q
+q
+1 0 0 1 53.85827 73.33543 cm
+q
+0.858824 0.917647 0.996078 rg
+n
+0 214.8 487.5591 -15.6 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 202.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Weakness) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 119.3858 202.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Change) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 331.9843 202.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Evidence) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 186.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Resolv god class) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 119.3858 167.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 21.2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Split into UserService\054 ConfigService\054 IncidentService\054) Tj
+T*
+(ReportService\054 Clock\073 Resolv kept as Facade and) Tj
+T*
+(composition root) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 331.9843 167.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 21.2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Resolv 209 lines \057 42 methods of logic\054 now) Tj
+T*
+(75 lines \057 38 methods of which 35 are) Tj
+T*
+(one\055line delegations) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 142.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Public fields on Incident and) Tj
+T*
+(Technician) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 119.3858 132.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 21.2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Private fields\054 read\055only properties\054 copies of lists\054) Tj
+T*
+(validating mutators \050assign\137to\054 revise\054 add\137comment\054) Tj
+T*
+(record\137resolution\054 update\137profile\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 331.9843 151.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Tests T39\054 T42) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 107.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Business logic coupled to) Tj
+T*
+(persistence\057UI) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 119.3858 97.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 21.2 Tm
+/F1 7.6 Tf
+9.6 TL
+(to\137dict\057from\137dict removed from domain\073 SQLiteRepository) Tj
+T*
+(maps rows to objects\073 API view built in server\056py\073 observer) Tj
+T*
+(takes an admin lookup\073 server uses public methods only) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 331.9843 88.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 30.8 Tm
+/F1 7.6 Tf
+9.6 TL
+(Search\072 no sqlite\057json\057SQL in services or) Tj
+T*
+(domain\073 no S\056\137x or S\056repo access in) Tj
+T*
+(server\056py\073 T43 runs on an in\055memory) Tj
+T*
+(repository) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 72.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Role if\057else chains) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 119.3858 63 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Polymorphic can\137work\137on\054 acts\137as\137reporter\137for\054) Tj
+T*
+(comment\137kinds\054 profile\050\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 331.9843 72.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(T41) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 47.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Inconsistent state validation) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 119.3858 28.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 21.2 Tm
+/F1 7.6 Tf
+9.6 TL
+(State objects own capability flags\073 one \137step path for) Tj
+T*
+(lifecycle changes\056 Closed a real hole\072 an admin could) Tj
+T*
+(reassign or comment on resolved\057closed incidents) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 331.9843 37.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(T40\073 resolution\057feedback recorded only after) Tj
+T*
+(the transition succeeds) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Bug introduced and fixed) Tj
+T*
+(during refactor) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 119.3858 3 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(SLAEngine read the renamed field inc\056esc\073 caught by the) Tj
+T*
+(unchanged tests\054 fixed to escalation\137level) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 331.9843 3 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(2 unit\055test errors\054 then all 38 original tests) Tj
+T*
+(passing) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.501961 0.501961 0.501961 RG
+0.4 w
+n
+0 214.8 m
+487.5591 214.8 l
+S
+n
+0 0 m
+487.5591 0 l
+S
+n
+0 0 m
+0 214.8 l
+S
+n
+487.5591 0 m
+487.5591 214.8 l
+S
+n
+0 199.2 m
+487.5591 199.2 l
+S
+n
+0 164.4 m
+487.5591 164.4 l
+S
+n
+0 129.6 m
+487.5591 129.6 l
+S
+n
+0 85.2 m
+487.5591 85.2 l
+S
+n
+0 60 m
+487.5591 60 l
+S
+n
+0 25.2 m
+487.5591 25.2 l
+S
+n
+113.3858 0 m
+113.3858 214.8 l
+S
+n
+325.9843 0 m
+325.9843 214.8 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 67.33543 cm
+Q
+
+endstream
+endobj
+17 0 obj
+<<
+/Contents 18 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+18 0 obj
+<<
+/Length 4372
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 56.69291 683.7354 cm
+q
+0.858824 0.917647 0.996078 rg
+n
+0 106.8 481.8898 -15.6 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 94.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Suite) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 147.7323 94.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Command) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 317.811 94.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Result) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 78.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Unit \057 integration) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 147.7323 78.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(python3 test\137resolv\056py) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 317.811 69 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(44 run\054 44 passed \05038 original\054 unchanged\054) Tj
+T*
+(plus 6 new\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 43.8 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(API \050real server process\054 includes) Tj
+T*
+(restart\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 147.7323 53.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(python3 tests\137e2e\057e2e\137api\056py) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 317.811 53.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(76 passed\054 0 failed) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 18.6 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 11.6 Tm
+/F1 7.6 Tf
+9.6 TL
+(Browser UI \050headless Chromium\054 390) Tj
+T*
+(px\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 147.7323 28.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(python3 tests\137e2e\057e2e\137ui\056py) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 317.811 28.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(19 passed\054 0 failed\054 0 JavaScript errors) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Console workflows) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 147.7323 3 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(python3 resolv\056py) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 317.811 3 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 7.6 Tf
+9.6 TL
+(Runs the 3 workflows) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.501961 0.501961 0.501961 RG
+0.4 w
+n
+0 106.8 m
+481.8898 106.8 l
+S
+n
+0 0 m
+481.8898 0 l
+S
+n
+0 0 m
+0 106.8 l
+S
+n
+481.8898 0 m
+481.8898 106.8 l
+S
+n
+0 91.2 m
+481.8898 91.2 l
+S
+n
+0 66 m
+481.8898 66 l
+S
+n
+0 40.8 m
+481.8898 40.8 l
+S
+n
+0 15.6 m
+481.8898 15.6 l
+S
+n
+141.7323 0 m
+141.7323 106.8 l
+S
+n
+311.811 0 m
+311.811 106.8 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 677.7354 cm
+Q
+q
+1 0 0 1 57.02362 646.7354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 15.7 Tm
+/F1 9.3 Tf
+12.5 TL
+(Not tested\072 real email\054 concurrent users\054 HTTPS\054 load\054 real mobile device\054 Safari\057Firefox\056 Database failure is tested) Tj
+T*
+(by closing the connection \050PersistenceError\051\054 not by disk faults\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 642.7354 cm
+Q
+q
+1 0 0 1 57.02362 610.7354 cm
+q
+0.117647 0.227451 0.541176 rg
+BT
+1 0 0 1 0 7.5 Tm
+/F2 14.5 Tf
+22 TL
+(H\055K\056 Deliverables) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 579.7354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 15.7 Tm
+/F1 9.3 Tf
+12.5 TL
+(H\056 Resolv\137Project\137Report\056pdf \050updated\054 13 pages\051\056 I\056 README\056md\056 J\056 docs\057\052\056png \050architecture\054 use case\054 state\054 two) Tj
+T*
+(class diagrams\054 ER\051 and inside the report\056 K\056 VIVA\137PREPARATION\056pdf\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 575.7354 cm
+Q
+q
+1 0 0 1 57.02362 543.7354 cm
+q
+0.117647 0.227451 0.541176 rg
+BT
+1 0 0 1 0 7.5 Tm
+/F2 14.5 Tf
+22 TL
+(L\056 Final submission readiness assessment) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 462.7354 cm
+q
+BT
+1 0 0 1 0 65.7 Tm
+-0.029459 Tw
+12.5 TL
+/F2 9.3 Tf
+0 0 0 rg
+(Technically ready) Tj
+/F1 9.3 Tf
+( for the MVP and the OOP requirements\056 Items only the team can complete\072 \0501\051 cover page\072 group) Tj
+T*
+0 Tw
+(number\054 names\054 IDs\054 repository link\073 \0502\051 record the 15\05520 minute video with every member introducing themselves\073) Tj
+T*
+(\0503\051 push to Git and submit by 22\05611\0562026\073 \0504\051 every member must read the viva document and run the application) Tj
+T*
+(once on their own machine\056 ) Tj
+/F2 9.3 Tf
+(Honest risk areas for the viva\072) Tj
+/F1 9.3 Tf
+( Resolv is a wide facade \05035 delegating methods\051 and) Tj
+T*
+(IncidentService is the largest service\073 privacy in Python is by convention\073 email is simulated\073 SLA monitor is) Tj
+T*
+(manual\057on\055demand\073 the intelligent features are heuristics\056 Each is documented above\054 so none should surprise you\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 57.02362 458.7354 cm
+Q
+
+endstream
+endobj
+19 0 obj
+<<
+/Author (\050anonymous\051)
+/CreationDate (D\07220261109072938\05300\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220261109072938\05300\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (Resolv Audit Report)
+/Trapped (\057False)
+>>
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000176 00000 n 
+0000000375 00000 n 
+0000000916 00000 n 
+0000000967 00000 n 
+0000001074 00000 n 
+0000001186 00000 n 
+0000001291 00000 n 
+0000001491 00000 n 
+0000018255 00000 n 
+0000018456 00000 n 
+0000030567 00000 n 
+0000030768 00000 n 
+0000043289 00000 n 
+0000043490 00000 n 
+0000055778 00000 n 
+0000055979 00000 n 
+0000060404 00000 n 
+trailer
+<<
+/Size 20
+/Root 1 0 R
+/Info 19 0 R
+/ID [ <cfa7cdcacd93e6af5ab4276c24dd85a5> <cfa7cdcacd93e6af5ab4276c24dd85a5> ]
+>>
+startxref
+60736
+%%EOF

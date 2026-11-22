@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.db
+*.db-*
+evidence/
+models/
+
+# Files created by the local demo launcher
+.resolv-local-password
+.resolv-local-evidence/

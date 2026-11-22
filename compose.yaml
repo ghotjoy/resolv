@@ -1,0 +1,21 @@
+services:
+  desk:
+    build: .
+    ports:
+      - "127.0.0.1:${RESOLV_CONTAINER_PORT:-8000}:8000"
+    environment:
+      RESOLV_DATABASE: "${RESOLV_DATABASE:-/data/resolv.db}"
+      RESOLV_ADMIN_ID: "${RESOLV_ADMIN_ID:-administrator}"
+      RESOLV_ADMIN_PASSWORD: "${RESOLV_ADMIN_PASSWORD:?Set RESOLV_ADMIN_PASSWORD to bootstrap the service}"
+      RESOLV_MONITOR_SECONDS: "${RESOLV_MONITOR_SECONDS:-30}"
+    volumes:
+      - desk-data:/data
+    healthcheck:
+      test: ["CMD", "python", "-c", "from urllib.request import urlopen; urlopen('http://127.0.0.1:8000/', timeout=3).close()"]
+      start_period: 10s
+      interval: 15s
+      timeout: 5s
+      retries: 3
+
+volumes:
+  desk-data:
