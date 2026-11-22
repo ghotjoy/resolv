@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✅ Resolv
+# Resolv
 
 ### From first report to verified fix.
 
