@@ -126,20 +126,6 @@ A server with no administrator prints bootstrap instructions. Setting the bootst
 
 ---
 
-## 🎬 Demo workflows
-
-The [presenter script](docs/Resolv_Detailed_Presenter_Script.pdf) runs **18 minutes**: one presenter introduces the desk, then three presenters each take one case from start to finish.
-
-| | Scenario | Story |
-| --- | --- | --- |
-| 📶 | **Library Wi-Fi outage** | A student reports Wi-Fi failing in one reading area and reviews the category, priority and SLA preview. The assigned technician is alerted, acknowledges and records the repair. The student verifies the fix and the administrator closes the ticket. |
-| 🖥️ | **Broken smartboard in F102** | A lecturer attaches a photo of the smartboard showing *No Signal*. The technician asks for more details, reads the reply and records a cable replacement. The lecturer confirms the slides display, and the issue is closed. |
-| 🔌 | **One room loses power in Vishwakarma Bhavan** | Two residents report the same room while the corridor still has power. The administrator links the reports in **Insights**. The demo clock exposes a missed response and an escalation. Facilities restore power, a resident verifies it, and the primary ticket is closed. |
-
-> [!TIP]
-> To show an SLA breach live, advance **Admin → Overview → Demo clock** past the deadline, click **Analytics → Run SLA monitor now**, then open the incident's **Timeline**.
-
----
 
 ## 🔄 Incident lifecycle
 
@@ -733,7 +719,6 @@ Run `python resolv.py` for the console workflows.
 | Document | Covers |
 | --- | --- |
 | [Final project report](Resolv_Project_Report.pdf) | Requirements, architecture, UML, security, test catalogue, recorded validation |
-| [Presenter script](docs/Resolv_Detailed_Presenter_Script.pdf) · [Demo plan](docs/demo.md) | Click paths, narration and handoffs for the 18-minute demo |
 | [Setup and configuration](docs/setup.md) | Install, Docker, SMTP, voice, migration from older installs |
 | [Diagrams](docs/diagrams.md) · [ER diagram](docs/er.png) | Architecture, class, use-case and data models |
 | [Enhancement design](docs/enhancements.md) · [Follow-up notes](docs/followup.md) | Lifecycle extensions, audit behaviour, campus data, reporting |
